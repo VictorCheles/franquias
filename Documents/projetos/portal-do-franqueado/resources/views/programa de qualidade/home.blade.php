@@ -1,0 +1,2 @@
+<?php $user = Auth::user(); ?>
+

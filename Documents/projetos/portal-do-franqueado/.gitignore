@@ -1,0 +1,14 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+composer.lock
+yarn.lock
+/bower_components/
+/.idea/
+nbproject/
+_ide_helper.php
+.php_cs.cache
+.phpstorm.meta.php
